@@ -1,0 +1,32 @@
+[
+  {
+    "item": "hot pepper",
+    "size": "small",
+    "color": "red",
+    "condition": "damaged"
+  },
+  {
+    "item": "wheat",
+    "size": "medium",
+    "color": "beige",
+    "condition": "like new"
+  },
+  {
+    "item": "sock",
+    "size": "medium",
+    "color": "white",
+    "condition": "old"
+  },
+  {
+    "item": "tv",
+    "size": "large",
+    "color": "black",
+    "condition": "old"
+  },
+  {
+    "item": "bracelet",
+    "size": "small",
+    "color": "blue",
+    "condition": "like new"
+  }
+]
